@@ -1,7 +1,11 @@
 {
   "autoload": {
+    "files": [
+      "app/helpers.php"
+    ],
     "psr-4": {
-      "App\\": "app/"
+      "App\\": "app/",
+      "Common\\": "packages/Common"
     }
   }
 }

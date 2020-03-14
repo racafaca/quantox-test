@@ -1,0 +1,16 @@
+{
+  "name": "common/database",
+  "description": "common database package",
+  "license": "license",
+  "authors": [
+    {
+      "name": "Rastko Boricic",
+      "email": "rboricic89@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Common\\Database\\": "/"
+    }
+  }
+}
